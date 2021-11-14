@@ -5,7 +5,7 @@ var x = 0;
 var y = 0;
 
 function setup() {
-  createCanvas(800, 600, P2D);
+  createCanvas(500, 500, P2D);
 }
 
 function draw() {
